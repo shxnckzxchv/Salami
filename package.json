@@ -1,0 +1,14 @@
+{
+  "name": "Salami",
+  "version": "1.4.38",
+  "description": "A test bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "salmon#0750",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
